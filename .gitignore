@@ -1,0 +1,19 @@
+# Datasets (downloaded automatically by torchvision/torchaudio)
+data/
+
+# Experiment outputs
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.venv/
+*.egg-info/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
